@@ -1,0 +1,2 @@
+# squanchy
+A Discord Bot
