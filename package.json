@@ -1,0 +1,32 @@
+{
+  "name": "Squanchy",
+  "version": "3.5.0",
+  "description": "Multi-purpose bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "count": "cloc app/"
+  },
+  "engines": {
+    "node": "12.x",
+    "npm": "6.x"
+  },
+  "author": "Jean Carlos VR",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^5.2.0",
+    "discord.js": "^12.2.0",
+    "enmap": "^5.3.1",
+    "express": "^4.17.1",
+    "fs": "0.0.2",
+    "humanize-duration": "^3.23.1",
+    "log-symbols": "^4.0.0",
+    "math-expression-evaluator": "^1.2.22",
+    "megadb": "^3.4.0",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "node-superfetch": "^0.1.10",
+    "spacebots": "^0.4.9",
+    "weez": "^1.6.1"
+  }
+}
